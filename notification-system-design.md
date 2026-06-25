@@ -338,8 +338,8 @@ MongoDB is an ideal choice for notification systems because it provides:
 ```json
 {
   "_id": ObjectId,
-  "name": "PEDADA SAI KRISHNA",
-  "email": "23pa1a4287@vishnu.edu.in",
+  "name": "GUDE GOPI KRISHNA",
+  "email": "23pa1a4543@vishnu.edu.in",
   "createdAt": ISODate("2026-04-22T17:51:18Z")
 }
 ```
